@@ -1,12 +1,12 @@
 # Global-Power-Plant-Database-Project
 
-# Problem Statement:
+### Problem Statement:
 
-# Description
+### Description
 
 The Global Power Plant Database is a comprehensive, open source database of power plants around the world. It centralizes power plant data to make it easier to navigate, compare and draw insights for one’s own analysis. The database covers approximately 35,000 power plants from 167 countries and includes thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar). Each power plant is geolocated and entries contain information on plant capacity, generation, ownership, and fuel type. It will be continuously updated as data becomes available.
 
-# Key attributes of the database
+### Key attributes of the database
 
 The database includes the following indicators:
 
@@ -47,11 +47,11 @@ estimated_generation_note_2015 (text): label of the model/method used to estimat
 estimated_generation_note_2016 (text): label of the model/method used to estimate generation for the year 2016
 estimated_generation_note_2017 (text): label of the model/method used to estimate generation for the year 2017
 
-# Fuel Type Aggregation
+### Fuel Type Aggregation
 
 We define the "Fuel Type" attribute of our database based on common fuel categories.
 
-# Prediction : Make two prediction for labels
+### Prediction : Make two prediction for labels
 
 1) Primary Fuel
 2) capacity_mw
